@@ -1,7 +1,9 @@
 # Plantilla de presentaciones — Simuladores de Negocios Colombia
 
 Este es el **diseño base** para las próximas presentaciones/webinars.
-Archivo de partida: [`plantilla-webinar.html`](plantilla-webinar.html) (diseño completo y funcional).
+Archivo de partida: [`plantilla-webinar.html`](plantilla-webinar.html) — plantilla **en blanco** con portada genérica, un ejemplo de cada componente (agenda, tarjetas, texto+imagen, comparativa, cadena de valor) y cierre con logo + QR. Duplícala y reemplaza el texto.
+
+> ¿Quieres ver el diseño con contenido real de ejemplo? Mira [`index.html`](index.html) (el webinar completo de 29 diapositivas).
 
 ## Cómo crear una presentación nueva
 1. **Duplica** `plantilla-webinar.html` con un nombre nuevo (ej. `webinar-marketing.html`).
